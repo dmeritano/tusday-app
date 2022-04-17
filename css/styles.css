@@ -68,3 +68,9 @@ h1 span {
     font-size: 1.2rem;
     font-family: 'Quicksand', sans-serif;    
 }
+.code{
+    font-family: monospace;
+}
+.title-demo{
+    color:brown
+}
